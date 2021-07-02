@@ -9,4 +9,6 @@ You can add and delete Todo's.
 
 
 # Technologies Used
-HTML,CSS,JS
+- HTML
+- CSS
+- Javascript
